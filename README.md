@@ -1,90 +1,37 @@
-# 👩🏻‍💻 Kétlly Sampaio
-
+<h2 align="left">👩🏻‍💻 Kétlly Sampaio</h2
+                                   
+###
 **`Desenvolvedora FullStack`**
+<p align="left"<br>24 anos | 🌍 Naturais da Bahia<br><br>Atualmente, estou cursando:<br><br>Ciência da Computação (2° semestre) 💻<br>Ciências Contábeis (5° semestre) 📚<br><br>Sou apaixonado por aprender novas tecnologias e explorar o universo da computação e dos negócios. Gosto de me desafiar e trabalhar em projetos que combinem essas duas áreas.</p>
 
-<p><strong>24 anos</strong> | 🌍 Natural da Bahia</p>
+###
 
-<p>Atualmente, estou cursando:</p>
-<ul>
-  <li><strong>Ciência da Computação</strong> (2° semestre) 💻</li>
-  <li><strong>Ciências Contábeis</strong> (5° semestre) 📚</li>
-</ul>
+<h2 align="left">🤖 Tecnologias que estou aprendendo</h2>
 
-<p>Sou apaixonada por aprender novas tecnologias e explorar o universo da computação e dos negócios. Gosto de me desafiar e trabalhar em projetos que combinem essas duas áreas.</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+</div>
 
-### 🤖 Linguagens e Tecnologias que estou aprendendo
+###
 
-<img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="CSS" 
-  title="CSS"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Git" 
-  title="Git"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Python" 
-  title="Python"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Java" 
-  title="Java"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-      
+<h2 align="left">📊 Estatísticas</h2>
 
-<br/>
-<br/>
+###
 
-### 📊 Estatísticas
+<div align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KetllySampaio24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KetllySampaio24&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetllySampaio24&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+###
