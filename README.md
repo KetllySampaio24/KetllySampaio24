@@ -2,7 +2,7 @@
                                    
 ###
 **`Desenvolvedora FullStack`**
-<p align="left"<br>24 anos | 🌍 Natural da Bahia<br><br>Atualmente, cursando:<br><br>Ciência da Computação (2° semestre) 💻<br>Ciências Contábeis (5° semestre) 📚<br><br>Sou apaixonado por aprender novas tecnologias e explorar o universo da computação e dos negócios. Gosto de me desafiar e trabalhar em projetos que combinem essas duas áreas.</p>
+<p align="left"<br>24 anos | 🌍 Natural da Bahia<br><br>Atualmente, cursando:<br><br>Ciência da Computação (3° semestre) 💻<br>Ciências Contábeis (6° semestre) 📚<br><br>Sou apaixonado por aprender novas tecnologias e explorar o universo da computação e dos negócios. Gosto de me desafiar e trabalhar em projetos que combinem essas duas áreas.</p>
 
 ###
 
