@@ -1,27 +1,21 @@
-<h2 align="left">👩🏻‍💻 Kétlly Sampaio</h2
+<h2 align="left">👩🏻‍💻 Kétlly Sampaio</h2>
                                    
 ###
-**`Desenvolvedora FullStack`**
-<p align="left"<br>25 anos | 🌍 Natural da Bahia<br><br>Atualmente, cursando:<br><br>Ciência da Computação (4° semestre) 💻<br>Ciências Contábeis (7° semestre) 📚<br><br>Sou apaixonada por aprender novas tecnologias e explorar o universo da computação e dos negócios. Gosto de me desafiar e trabalhar em projetos que combinem essas duas áreas.</p>
+**`Engenheira de Dados Jr`**
+<p align="left"><br>25 anos | 🌍 Natural da Bahia<br><br>Atualmente, cursando:<br><br>Ciência da Computação (4° semestre) 💻<br>Ciências Contábeis (7° semestre) 📚<br><br>Atuo com engenharia de dados, focada na construção e manutenção de pipelines de dados utilizando PySpark e Databricks.<br><br>Tenho experiência com modelagem de dados, ETL/ELT e processamento em larga escala, buscando sempre gerar valor para o negócio a partir dos dados.<br><br>Interesse contínuo em boas práticas de arquitetura de dados, performance e qualidade de dados.</p>
 
 ###
 
-<h2 align="left">🤖 Tecnologias que estou aprendendo</h2>
+<h2 align="left">⚙️ Stack de Dados</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="databricks logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo" />
 </div>
 
 ###
@@ -31,7 +25,7 @@
 ###
 
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KetllySampaio24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KetllySampaio24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
