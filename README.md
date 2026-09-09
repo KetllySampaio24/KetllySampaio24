@@ -4,10 +4,10 @@
 **`Engenheira de Dados Jr`**
 
 <p align="left"><br>25 anos | 🌍 Natural da Bahia<br><br>
-Engenheira de Dados Júnior com 2 anos de experiência prática no ciclo de dados — atuando desde o suporte a sistemas e banco de dados até a engenharia. Especialista no desenvolvimento e sustentação de pipelines de dados (ETL/ELT) utilizando Python, PySpark, Databricks e SQL, com aplicação prática da arquitetura Medallion. Focada na automação de processos, integração de APIs e implementação de rotinas de Data Quality para entregar dados limpos, confiáveis e prontos para a tomada de decisão do negócio.<br><br>
+Engenheira de Dados Júnior com 1 anos de experiência prática no ciclo de dados — atuando desde o suporte a sistemas e banco de dados até a engenharia. Especialista no desenvolvimento e sustentação de pipelines de dados (ETL/ELT) utilizando Python, PySpark, Databricks e SQL, com aplicação prática da arquitetura Medallion. Focada na automação de processos, integração de APIs e implementação de rotinas de Data Quality para entregar dados limpos, confiáveis e prontos para a tomada de decisão do negócio.<br><br>
 <b>Atualmente cursando:</b><br>
-🎓 Ciência da Computação (4° semestre)<br>
-📚 Ciências Contábeis (7° semestre)
+🎓 Ciência da Computação (5° semestre)<br>
+📚 Ciências Contábeis (8° semestre)
 </p>
 
 ###
